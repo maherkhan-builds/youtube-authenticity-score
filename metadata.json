@@ -1,0 +1,5 @@
+{
+  "name": "AuthentiTube",
+  "description": "An application inspired by YouTube that provides an 'Authenticity Score' for videos or channels to help viewers assess trustworthiness and credibility.",
+  "requestFramePermissions": []
+}
