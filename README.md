@@ -1,15 +1,38 @@
-# YouTube Authenticity Score
+<!-- FUTURISTIC HEADER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=YouTube%20Authenticity%20Score&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Digital%20Trust%20Engine&descAlignY=60&descSize=16"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build-Prototype-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital-Trust-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Media-Intelligence-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Challenge-Vibe%20Coding-0CA678?style=for-the-badge"/>
+</p>
+
+---
+
+# YouTube Authenticity Score 🔍📊
 
 **Industry:** Creator Economy / Digital Trust / Media Intelligence  
-**Part of 100-Day AI App Challenge**
+**Part of AI App Building Challenge — One AI app per day**
 
 ---
 
 ## The Problem
 
-Viewers often struggle to assess the credibility of YouTube videos and channels. With AI-generated content, sensational headlines, deepfakes, and engagement-driven misinformation, it has become increasingly difficult to distinguish trustworthy content from misleading or low-quality material.
+Viewers struggle to assess the credibility of YouTube videos and channels.
 
-There is no structured, transparent framework that helps viewers objectively evaluate authenticity before forming opinions or sharing content.
+With:
+- AI-generated content  
+- Deepfakes  
+- Sensational thumbnails  
+- Engagement-driven misinformation  
+
+It has become increasingly difficult to distinguish trustworthy content from misleading material.
+
+There is no structured, transparent framework that helps users objectively evaluate authenticity before forming opinions or sharing content.
 
 ---
 
@@ -19,29 +42,34 @@ An AI-powered authenticity analysis app that evaluates credibility signals in Yo
 
 ### Core Capabilities
 
-- **Content Signal Analysis** – Evaluates title tone, claim density, and language patterns  
-- **Channel Credibility Assessment** – Reviews consistency, historical focus, and content alignment  
-- **Engagement Pattern Review** – Detects suspicious spikes or inorganic interaction signals  
+- **Content Signal Analysis** – Evaluates tone, claim density, and language patterns  
+- **Channel Credibility Assessment** – Reviews consistency and historical alignment  
+- **Engagement Pattern Review** – Detects suspicious spikes or inorganic activity  
 - **Claim Risk Evaluation** – Flags exaggerated or unverifiable statements  
-- **Authenticity Score (0–100)** – Produces a weighted, transparent trust score with explanation  
+- **Authenticity Score (0–100)** – Produces a weighted, transparent trust score  
 
 ---
 
-## Why This Can’t Be Done in ChatGPT
+## Why This Requires a Purpose-Built App
 
-Authenticity scoring requires structured signal weighting, repeatable validation logic, and consistent evaluation across multiple videos and channels.
+Authenticity scoring requires:
 
-While conversational AI can summarize content, it cannot apply standardized scoring models, enforce logical consistency checks, or generate a reliable credibility framework that remains consistent across evaluations.
+- Structured signal weighting  
+- Repeatable evaluation logic  
+- Standardized validation rules  
+- Transparent explanation layers  
 
-This app transforms subjective impressions into a measurable, explainable system.
+Conversational AI can summarize content — but cannot enforce consistent scoring logic across multiple channels and videos.
+
+This app converts subjective impressions into measurable digital trust infrastructure.
 
 ---
 
 ## Who This Is For
 
-- YouTube viewers verifying content credibility  
-- Students evaluating informational sources  
-- Researchers analyzing digital media trust  
+- YouTube viewers verifying content  
+- Students evaluating information sources  
+- Researchers studying digital media trust  
 - Advertisers assessing brand safety  
 - Journalists reviewing content reliability  
 
@@ -55,33 +83,14 @@ This app transforms subjective impressions into a measurable, explainable system
 
 ## Tools Used
 
-- Gemini + aistudio.google (ideation + prompting)  
-- Google Stitch (UI design and prototyping)  
-- Google Opal (UI design and prototyping)  
-- Replit (UI design and prototyping)  
-- Lovable (UI design and prototyping)  
-- Base44 (UI design and prototyping)  
-- Rocket (UI design and prototyping)  
-- Google AI Studio (Gemini 2.5 Flash)  
-- React + TypeScript  
-- Material Design principles  
-
----
-
-## Time to Build
-
-⏱️ ~30 minutes (from concept to working prototype)
-
----
-
-## Revenue Potential
-
-- $5–10/month per user (browser extension model)  
-- Creator authenticity certification tools  
-- B2B analytics dashboards for brands  
-- Media literacy licensing for educational institutions  
-
-Trust infrastructure in digital media represents a growing long-term opportunity.
+- Gemini + Google AI Studio (ideation + scheduling logic design)
+- Google App Studio (core app development)
+- Google Stitch (UI design + prototyping)
+- Base44 (UI design + prototyping)
+- Figma (UI design + prototyping)
+- Google Opal (interaction testing + refinement)
+- React + TypeScript
+- Material Design principles
 
 ---
 
@@ -91,7 +100,13 @@ Trust infrastructure in digital media represents a growing long-term opportunity
 - Weighted credibility signal framework  
 - Logical validation layer  
 - Transparent explanation breakdown  
-- YouTube-inspired modern UI  
+- Modern YouTube-inspired UI  
+
+---
+
+## Time to Build
+
+⏱️ ~30 minutes (concept → working prototype)
 
 ---
 
@@ -111,7 +126,11 @@ Building one future-facing, industry-specific AI app every day using Google App 
 
 ## Follow the Journey
 
-- Instagram: https://www.instagram.com/social.icm/  
-- TikTok: https://www.tiktok.com/@social_media_coach  
-- LinkedIn: https://www.linkedin.com/in/mahersocialmediastrategistus/  
-- GitHub: https://github.com/maherkhan-builds  
+Instagram: https://www.instagram.com/social.icm/  
+TikTok: https://www.tiktok.com/@social_media_coach  
+LinkedIn: https://www.linkedin.com/in/mahersocialmediastrategistus/  
+GitHub: https://github.com/maherkhan-builds  
+
+---
+
+### Building one AI app per day using vibe-coding (prompt → prototype).
