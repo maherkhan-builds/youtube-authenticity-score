@@ -5,13 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Build-Prototype-6E56CF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital-Trust-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Media-Intelligence-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Challenge-Vibe%20Coding-0CA678?style=for-the-badge"/>
-</p>
 
+<img src="https://img.shields.io/badge/PLATFORM-YOUTUBE-3A3A3A-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILD-PROTOTYPE-3A3A3A-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DIGITAL-TRUST-3A3A3A-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MEDIA-INTELLIGENCE-3A3A3A-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20CHALLENGE-VIBE%20CODING-3A3A3A-0CA678?style=flat-square"/>
+
+</p>
 ---
 
 # YouTube Authenticity Score 🔍📊
