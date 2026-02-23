@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Platform-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Build-Prototype-6E56CF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Digital-Trust-00C2FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Media-Intelligence-FF6B6B?style=for-the-badge"/>
